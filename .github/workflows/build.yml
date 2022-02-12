@@ -8,7 +8,7 @@ on:
 
 env:
   POSTGRESQL_VERSION: alpine
-  POSTGRESQL_DB: amigoscode
+  POSTGRESQL_DB: yekkhan
   POSTGRESQL_USER: postgres
   POSTGRESQL_PASSWORD: password
   JAVA_VERSION: 1.17
